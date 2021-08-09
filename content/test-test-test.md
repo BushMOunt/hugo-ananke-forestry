@@ -1,6 +1,5 @@
 +++
 description = "This Is A Description"
-draft = true
 featured_image = "/images/esmeralda.jpg"
 title = "Test Test Test"
 
